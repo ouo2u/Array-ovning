@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\bin\Debug\net7.0\Array-ovning.exe
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\bin\Debug\net7.0\Array-ovning.deps.json
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\bin\Debug\net7.0\Array-ovning.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\bin\Debug\net7.0\Array-ovning.dll
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\bin\Debug\net7.0\Array-ovning.pdb
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\obj\Debug\net7.0\Array-ovning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\obj\Debug\net7.0\Array-ovning.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\obj\Debug\net7.0\Array-ovning.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\obj\Debug\net7.0\Array-ovning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\obj\Debug\net7.0\Array-ovning.dll
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\obj\Debug\net7.0\refint\Array-ovning.dll
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\obj\Debug\net7.0\Array-ovning.pdb
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\obj\Debug\net7.0\Array-ovning.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\TEst\Test\Array-ovning\obj\Debug\net7.0\ref\Array-ovning.dll
